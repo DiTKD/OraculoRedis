@@ -7,19 +7,18 @@ namespace ConsoleApp1
     class Program
     {
 
-        public static RedisChannel canal = "ch1";
-        public static IConnectionMultiplexer client = ConnectionMultiplexer.Connect("127.0.0.1:6379");
+        public static RedisChannel canal = "perguntas";
+        public static IConnectionMultiplexer client = ConnectionMultiplexer.Connect("191.232.234.20");
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
 
-            
             var db = client.GetDatabase();
 
             var sub = client.GetSubscriber();
             sub.Subscribe(canal, (ch, msg) =>
             {
-                if(msg.ToString().StartsWith("p"))
+                if(msg.ToString().StartsWith("P"))
                     GeraResposta(msg.ToString());
             });
 
@@ -28,11 +27,17 @@ namespace ConsoleApp1
 
         public static void GeraResposta(string msg)
         {
-            var pub = client.GetSubscriber();
-            var resposta = getRespostaGoogle(msg);
-            pub.Publish(canal, resposta);
+            string resposta = string.Empty;
+            var pergunta = msg.Split(":");
+
+            resposta = "Pergunte outra coisa além de" + pergunta[1];
+
+            var db = client.GetDatabase();
+            db.HashSet(pergunta[0], "Timão", resposta);
+
         }
 
+       
         public static string getRespostaGoogle(string msg)
         {
             WebClient webClient = new WebClient();

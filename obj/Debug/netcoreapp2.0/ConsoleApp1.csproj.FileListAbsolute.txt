@@ -20,3 +20,14 @@ C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\OraculoRedis\obj\Deb
 C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\OraculoRedis\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
 C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\OraculoRedis\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
 C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\OraculoRedis\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
