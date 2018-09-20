@@ -30,10 +30,10 @@ namespace ConsoleApp1
             string resposta = string.Empty;
             var pergunta = msg.Split(":");
 
-            resposta = "Pergunte outra coisa além de" + pergunta[1];
+            resposta = "Procure a resposta de " + pergunta[1] + " em http:\\google.com";
 
             var db = client.GetDatabase();
-            db.HashSet(pergunta[0], "Timão", resposta);
+            db.HashSet(pergunta[0], "13NETTEAM", resposta.Replace("?",""));
 
         }
 
