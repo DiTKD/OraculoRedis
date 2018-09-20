@@ -1322,9 +1322,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logonrmlocal\\Desktop\\Git\\OraculoRedis\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\logonrmlocal\\Desktop\\Git\\OraculoRedis\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\logonrmlocal\\Desktop\\Git\\OraculoRedis\\Redis.csproj",
+      "projectName": "Redis",
+      "projectPath": "C:\\Users\\logonrmlocal\\Desktop\\Git\\OraculoRedis\\Redis.csproj",
       "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\logonrmlocal\\Desktop\\Git\\OraculoRedis\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,10 @@
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\bin\Debug\netcoreapp2.0\Redis.deps.json
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\bin\Debug\netcoreapp2.0\Redis.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\bin\Debug\netcoreapp2.0\Redis.runtimeconfig.dev.json
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\bin\Debug\netcoreapp2.0\Redis.dll
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\bin\Debug\netcoreapp2.0\Redis.pdb
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\obj\Debug\netcoreapp2.0\Redis.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\obj\Debug\netcoreapp2.0\Redis.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\obj\Debug\netcoreapp2.0\Redis.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\obj\Debug\netcoreapp2.0\Redis.dll
+C:\Users\logonrmlocal\Desktop\Git\OraculoRedis\obj\Debug\netcoreapp2.0\Redis.pdb

@@ -1,0 +1,11 @@
+C:\Users\logonrmlocal\Desktop\Git\Kafka\bin\Debug\netcoreapp2.0\Kafka.deps.json
+C:\Users\logonrmlocal\Desktop\Git\Kafka\bin\Debug\netcoreapp2.0\Kafka.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\Git\Kafka\bin\Debug\netcoreapp2.0\Kafka.runtimeconfig.dev.json
+C:\Users\logonrmlocal\Desktop\Git\Kafka\bin\Debug\netcoreapp2.0\Kafka.dll
+C:\Users\logonrmlocal\Desktop\Git\Kafka\obj\Debug\netcoreapp2.0\Kafka.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\Git\Kafka\obj\Debug\netcoreapp2.0\Kafka.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\Git\Kafka\obj\Debug\netcoreapp2.0\Kafka.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\Git\Kafka\obj\Debug\netcoreapp2.0\Kafka.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\Git\Kafka\bin\Debug\netcoreapp2.0\Kafka.pdb
+C:\Users\logonrmlocal\Desktop\Git\Kafka\obj\Debug\netcoreapp2.0\Kafka.dll
+C:\Users\logonrmlocal\Desktop\Git\Kafka\obj\Debug\netcoreapp2.0\Kafka.pdb
